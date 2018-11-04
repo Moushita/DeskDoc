@@ -1,6 +1,9 @@
 # DeskDoc
 A telehealth windows application that removes the physical barrier between the doctor and his patients, thus making treatemnt an easier process.
 
+PRE REQUISITE 
+Python 3.7x
+
 ABOUT THE APP:
 Every urban patient can connect to the doctor very easily. But what about the patients in the remote areas? Doctor's support is a luxury for them. This application aims at making doctor's consultance easily available for the people at the remote places. It makes people ask queries about their health issues by giving all the required information to the doctor online. 
 
